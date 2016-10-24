@@ -1,2 +1,4 @@
 # hello-world
-First Project
+Hello guys
+
+My name is James and i like to study (especially languages) 
